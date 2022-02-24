@@ -1,0 +1,41 @@
+.footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+.footer-section {
+    max-width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 10px 150px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+ul li {
+    line-height: 16px;
+    color: var( --font-color-secondary);
+    font-size: 12px;
+    font-weight: 400;
+    margin-right: 10px;
+}
+
+.footer-second {
+    max-width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0 50px 150px;
+    color: var( --font-color-secondary);
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.arrow-icon {
+    width: 15px;
+    margin: 0 20px 0 10px;
+}

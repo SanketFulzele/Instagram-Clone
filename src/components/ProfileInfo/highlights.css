@@ -1,0 +1,57 @@
+.highlights {
+    width: 100%;
+}
+
+.highlight-section {
+    max-width: 1000px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.highlight-border {
+    padding: 3px;
+    border-radius: 50%;
+    border: 2px solid var(--border-color-grey);
+}
+
+.highlight-icon {
+    border-radius: 50%;
+    background-color: var(--background-color-secondary);
+    width: 100px;
+    display: block;
+}
+
+.highlight-icon:hover {
+    cursor: pointer;
+}
+
+.highlight-row {
+ margin-right: 50px;
+}
+
+.highlight-name {
+    margin: 10px 10px ;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

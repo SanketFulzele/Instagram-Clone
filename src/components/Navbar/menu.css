@@ -1,0 +1,41 @@
+.menu {
+    display: flex;
+    padding-right: 1.5rem;
+}
+
+.icon {
+    margin-right: 1.5rem;
+    width: 23px;
+    height: 23px;
+}
+.icon:hover {
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

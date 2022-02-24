@@ -1,0 +1,16 @@
+.storyBorder {
+    padding: 1px;
+    border-radius: 50%;
+    background-color: var(--font-color-secondary);
+}
+
+.profileIcon {
+    border-radius: 50%;
+    border: 2px solid var(--background-white);
+    width: 25px;
+    display: block;
+}
+
+.profileIcon:hover {
+    cursor: pointer;
+}
